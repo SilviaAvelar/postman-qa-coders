@@ -1,0 +1,33 @@
+{
+	"id": "4a3eb7de-43ce-4e2d-8c95-1f18147c7818",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "id_filme",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Password",
+			"value": "1234@Test",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "MsgFullNamerequerid",
+			"value": "O campo 'fullName' é obrigatório.",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-06-28T16:46:56.327Z",
+	"_postman_exported_using": "Postman/11.2.25"
+}
